@@ -15,7 +15,7 @@ public class MainActivity extends AppCompatActivity {
     EditText send_text;
     TextView receiver_msg;
     @Override
-
+///////gg
     protected void onCreate(Bundle savedInstanceState) {
 
         send_button= findViewById(R.id.send_button_id);
